@@ -9,8 +9,3 @@
 <div align="center">
     <img  src="https://github-readme-streak-stats.herokuapp.com/?user=yuanshuai1122" />
 </div>
-
-<!-- 贪吃蛇 -->
-<div align="center">
-    <img src="https://activity-graph.herokuapp.com/graph?username=yuanshuai1122&theme=minimal" />
-</div>
