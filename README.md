@@ -59,69 +59,8 @@ Want to know more about me? [Check out my Blog.](http://blog.yuanshuai.vip)
 ![SqlServer](https://img.shields.io/badge/-Microsoft%20SQL%20Server-ECE2FB?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=1572B6)&nbsp;
 ![MongoDB](https://img.shields.io/badge/-MongoDB-ECE2FB?style=for-the-badge&logo=mongodb)&nbsp;
 
-[comment]: <> (## 📌 &nbsp;Pinned Repositories)
-
-[comment]: <> (<table>)
-
-[comment]: <> (	<thead>)
-
-[comment]: <> (		<tr>)
-
-[comment]: <> (			<th colspan="2" width="2000">&nbsp;</th>)
-
-[comment]: <> (		</tr>)
-
-[comment]: <> (	</thead>)
-
-[comment]: <> (	<tbody>)
-
-[comment]: <> (		<tr>)
-
-[comment]: <> (			<td align="center" valign="top" width="80"><br />)
-
-[comment]: <> (			<a href="https://github.com/felipeAguiarCode/node-chatgpt-api">)
-
-[comment]: <> (      <img src="./.github/assets/documentation.png" />)
-
-[comment]: <> (      </a>)
-
-[comment]: <> (      </td>)
-
-[comment]: <> (			<td valign="top">)
-
-[comment]: <> (			<h3>ChatGPT Clone &#40;Node + React&#41;</h3>)
-
-[comment]: <> (			<p>A Node integration with OpenAI algorithm and front-end with React</p>)
-
-[comment]: <> (			</td>)
-
-[comment]: <> (		</tr>)
-
-[comment]: <> (		<tr>)
-
-[comment]: <> (			<td align="center" valign="top" width="80"><br />)
-
-[comment]: <> (			<a href="https://github.com/felipeAguiarCode/angular-blog">)
-
-[comment]: <> (      <img src="./.github/assets/documentation.png" />)
-
-[comment]: <> (      </a>)
-
-[comment]: <> (      </td>)
-
-[comment]: <> (			<td valign="top">)
-
-[comment]: <> (			<h3>Angular Blog</h3>)
-
-[comment]: <> (			<p>An Simple blog with Angular, good pratices for folder structure.</p>)
-
-[comment]: <> (			</td>)
-
-[comment]: <> (		</tr>)
-
-[comment]: <> (	</tbody>)
-
-[comment]: <> (</table>)
+<!-- 贪吃蛇 -->
+<div align="center"><img src="https://raw.githubusercontent.com/yuanshuai1122/yuanshuai1122/main/assets/github-contribution-grid-snake.svg" ></div>
 
 
 ## 📊 &nbsp;Stats
