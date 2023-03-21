@@ -45,19 +45,32 @@ Want to know more about me? [Check out my Blog.](http://blog.yuanshuai.vip)
 
 ### 👩‍💻 &nbsp;Back-End
 
-![Node.js](https://img.shields.io/badge/Node.js-E7ECEB?style=for-the-badge&logo=node.js)&nbsp;
-![TypeScript](https://img.shields.io/badge/TypeScript-ECE2FB?style=for-the-badge&logo=typescript)&nbsp;
+![Java](https://img.shields.io/badge/Java-E7ECEB?style=for-the-badge)&nbsp;
+![Python](https://img.shields.io/badge/-Python-ECE2FB?style=for-the-badge&logo=python&logoColor=1572B6)&nbsp;
+![GoLang](https://img.shields.io/badge/-Golang-ECE2FB?style=for-the-badge&logo=go&logoColor=1572B6)&nbsp;
+![Dotnet](https://img.shields.io/badge/-dotnet-ECE2FB?style=for-the-badge&logo=dotnet&logoColor=1572B6)&nbsp;
 
-### 🎨 &nbsp;Front-end
+### 👩‍💻 &nbsp;Front-end
 ![HTML](https://img.shields.io/badge/-HTML-ECE2FB?style=for-the-badge&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-ECE2FB?style=for-the-badge&logo=CSS3&logoColor=1572B6)&nbsp;
+![JavaScript](https://img.shields.io/badge/JavaScript-ECE2FB?style=for-the-badge&logo=javascript)&nbsp;
+![TypeScript](https://img.shields.io/badge/TypeScript-ECE2FB?style=for-the-badge&logo=typescript)&nbsp;
 ![React](https://img.shields.io/badge/-React-ECE2FB?style=for-the-badge&logo=react&logoColor=1572B6)&nbsp;
+![Vue](https://img.shields.io/badge/-Vue-ECE2FB?style=for-the-badge&logo=vue.js&logoColor=1572B6)&nbsp;
 
-### ⚡ &nbsp;Database 
+### 👩‍💻 &nbsp;Database
 
 ![MySQL](https://img.shields.io/badge/-MySQL-ECE2FB?style=for-the-badge&logo=mysql)&nbsp;
 ![SqlServer](https://img.shields.io/badge/-Microsoft%20SQL%20Server-ECE2FB?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=1572B6)&nbsp;
 ![MongoDB](https://img.shields.io/badge/-MongoDB-ECE2FB?style=for-the-badge&logo=mongodb)&nbsp;
+![Redis](https://img.shields.io/badge/-REDIS-ECE2FB?style=for-the-badge&logo=redis)&nbsp;
+![Memcache](https://img.shields.io/badge/-memcache-ECE2FB?style=for-the-badge&logo=memcache)&nbsp;
+
+### 👩‍💻 &nbsp;Server
+
+![Kubernetes](https://img.shields.io/badge/kubernetes-E7ECEB?style=for-the-badge?logo=kubernetes)&nbsp;
+![Docker](https://img.shields.io/badge/docker-E7ECEB?style=for-the-badge?logo=docker)&nbsp;
+
 
 <!-- 贪吃蛇 -->
 <div align="center"><img src="https://raw.githubusercontent.com/yuanshuai1122/yuanshuai1122/main/assets/github-contribution-grid-snake.svg" ></div>
