@@ -15,18 +15,6 @@
 <a href="mailto:shuaiyuan1122@gmail.com">
 <img src="https://img.shields.io/badge/-email-020114?style=for-the-badge&amp;logo=microsoft-outlook&amp;logoColor=EBD03E&amp;color:FFF" alt="E-mail">
 </a>
-
-[comment]: <> (<a href="https://www.linkedin.com/in/felipe-me">)
-
-[comment]: <> (<img src="https://img.shields.io/badge/-LinkedIn-020114?style=for-the-badge&amp;logo=linkedin&amp;logoColor=EBD03E&amp;color:FFF" alt="LinkedIn">)
-
-[comment]: <> (</a>)
-
-[comment]: <> (<a href="https://www.youtube.com/channel/UCCcDZkI7AITYFCgDEFV9OoQ">)
-
-[comment]: <> (<img src="https://img.shields.io/badge/-Youtube-020114?style=for-the-badge&amp;logo=youtube&amp;logoColor=EBD03E&amp;color:FFF" alt="Youtube">)
-
-[comment]: <> (</a>)
 </p>
 </div>
 
