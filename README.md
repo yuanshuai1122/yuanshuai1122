@@ -26,7 +26,7 @@ Hey there 👋
 
 I’m yuanshuai, a full-stack engineer, creative coder and 🎓graduated in Computer Science. I made it my mission my passion for education and changing people's lives through programming, I specialize in Java and Javascript/TypeScript solutions.
 
-Want to know more about me? [Check out my Blog.](http://blog.yuanshuai.vip)
+Want to know more about me? [Check out my Blog.](https://blog.yuanshuaicn.com)
 
 ***
 ## 🛠 &nbsp;Tech Stack
